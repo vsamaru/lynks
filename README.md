@@ -9,6 +9,7 @@
 
 </p>
 
+
 ## Tech Stack
 - **Database**: PostgresSQL & Prisma as a ORM
 - **Frontend**: Next.js
